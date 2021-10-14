@@ -25,6 +25,7 @@ Si; porque el código objeto (bytecode) sale de la compilación del código fuen
 Bajo nivel. Ensamblador
 Nivel medio. C
 Alto nivel. Java
+
 8. ¿Qué paradigma de programación siguen los siguientes lenguajes?
 
 C-imperativo
