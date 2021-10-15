@@ -67,6 +67,7 @@ Javascript, ... Lenguajes de otro tipo: HTML, XML, JSON,
 ■ Evolutivo: se añade funcionalidades nuevas.
 ■ Adaptativo: se adapta a nuevos entornos.
 
+
 3 Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software. Procedimiento lineal (no tiene vuelta atrás)
 Modelo de mayor antigüedad. Identifica las fases principales del desarrollo software. Las fases han de realizarse en el orden indicado. El resultado de una fase es la entrada de la siguiente fase. Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones. Existen diferentes variantes con mayor o menor cantidad de actividades.
 
