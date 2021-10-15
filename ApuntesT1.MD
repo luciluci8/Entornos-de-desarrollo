@@ -95,6 +95,15 @@ Modelo de mayor antigüedad. Identifica las fases principales del desarrollo sof
  Una historia de usuario es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. Las historias de usuario son utilizadas en las metodologías de desarrollo ágiles para la especificación de requisitos (acompañadas de las discusiones con los usuarios y las pruebas de validación). Cada historia de usuario debe ser limitada, esta debería poderse escribir sobre una nota adhesiva pequeña. Dentro de la metodología XP las historias de usuario deben ser escritas por los usuarios.
   
 9 SCRUM. Explica como funciona Scrum. Consulta los siguientes enlaces:
+Scrum es un proceso en el que se trabaja colaborativamente, en equipo, y obtiene el mejor resultado posible de un proyecto.
+En Scrum un proyecto se ejecuta en ciclos temporales cortos y de duración fija (iteraciones que normalmente son de 2 semanas, aunque en algunos equipos son de 3 y 
+hasta 4 semanas, límite máximo de feedback de producto real y reflexión). Cada iteración tiene que proporcionar un resultado completo, un incremento de producto 
+final que sea susceptible de ser entregado con el mínimo esfuerzo al cliente cuando lo solicite.
+El proceso parte de la lista de objetivos/requisitos priorizada del producto.En la planificación de la iteración, tiene dos partes , la primera selección de 
+requisitos (2 horas) y la segunda planificación de la iteración (2 horas). Ejecución de la iteración: Cada día el equipo realiza una reunión de sincronización (15 
+minutos) El equipo inspecciona el trabajo que el resto del equipo está realizando, cada miembro responde a tres preguntas: qué he hecho, qué voy a hacer, qué 
+obstáculos tengo? El SCRUM master ayuda al equipo con los obstáculos y las interrupciones externas. el último día de trabajo en la reunión se atiende a la revisión 
+y retrospectiva.
 
         https://proyectosagiles.org/que-es-scrum/
 
@@ -103,18 +112,20 @@ Modelo de mayor antigüedad. Identifica las fases principales del desarrollo sof
 
 10 SCRUM. Define los siguientes términos:
 
-        Product backlog.
+        Product backlog.El product backlog (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
 
-        Sprint backlog.
+        Sprint backlog. o lista de pendientes del sprint, es el conjunto de tareas seleccionadas del product backlog durante el sprint planning para el Sprint 
+	actual, es decir, las tareas necesarias para realizar un incremento de producto.
 
 
 11 SCRUM. En la terminología Scrum qué términos se utilizan como sinónimo de:
 
-        Jefe de proyecto.
+        Jefe de proyecto. SCRUM master
 
-        Cliente.
+        Cliente.  Product owner
 
-        Equipo de desarrollo.
+        Equipo de desarrollo.  Equipo SCRUM
+
 
 
 12 SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
