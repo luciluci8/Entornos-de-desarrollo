@@ -130,6 +130,18 @@ y retrospectiva.
 
 12 SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
 
+Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
+Compromiso del cliente en la dirección de los resultados del proyecto, gestión del ROI y disponibilidad para poder colaborar.
+Compromiso de la Dirección de la organización para resolver problemas endémicos y realizar cambios organizativos, formando equipos autogestionados y
+multidisciplinares y fomentando una cultura de gestión basada en la colaboración y en la facilitación llevada a cabo por líderes al servicio del equipo.
+Compromiso conjunto y colaboración de los miembros del equipo.
+Relación entre proveedor y cliente basada en ganar-ganar, colaboración y transparencia.
+Facilidad para realizar cambios en el proyecto.
+Tamaño de cada equipo entre 5 y 9 personas (con técnicas específicas de planificación y coordinación cuando varios equipos trabajan en el mismo proyecto).
+Equipo trabajando en un mismo espacio común para maximizar la comunicación.
+Dedicación del equipo a tiempo completo.
+Estabilidad de los miembros del equipo
+
         https://proyectosagiles.org/requisitos-de-scrum/
 
 
